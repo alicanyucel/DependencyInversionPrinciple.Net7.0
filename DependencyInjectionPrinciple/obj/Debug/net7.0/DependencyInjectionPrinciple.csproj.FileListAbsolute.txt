@@ -1,0 +1,15 @@
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\obj\Debug\net7.0\DependencyInjectionPrinciple.csproj.AssemblyReference.cache
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\obj\Debug\net7.0\DependencyInjectionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\obj\Debug\net7.0\DependencyInjectionPrinciple.AssemblyInfoInputs.cache
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\obj\Debug\net7.0\DependencyInjectionPrinciple.AssemblyInfo.cs
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\obj\Debug\net7.0\DependencyInjectionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\bin\Debug\net7.0\DependencyInjectionPrinciple.exe
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\bin\Debug\net7.0\DependencyInjectionPrinciple.deps.json
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\bin\Debug\net7.0\DependencyInjectionPrinciple.runtimeconfig.json
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\bin\Debug\net7.0\DependencyInjectionPrinciple.dll
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\bin\Debug\net7.0\DependencyInjectionPrinciple.pdb
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\obj\Debug\net7.0\DependencyInjectionPrinciple.dll
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\obj\Debug\net7.0\refint\DependencyInjectionPrinciple.dll
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\obj\Debug\net7.0\DependencyInjectionPrinciple.pdb
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\obj\Debug\net7.0\DependencyInjectionPrinciple.genruntimeconfig.cache
+C:\Users\Alican\source\repos\DependencyInjectionPrinciple\DependencyInjectionPrinciple\obj\Debug\net7.0\ref\DependencyInjectionPrinciple.dll
